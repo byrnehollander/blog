@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "ahabitual",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Byrne's blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Byrne Hollander",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/byrnehollander/blog"
   },
   "dependencies": {
     "gatsby": "^2.19.7",
