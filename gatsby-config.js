@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/blog`, // only necessary because being deployed a subdomain on GH pages right now
   siteMetadata: {
     title: `Ahabitual`,
     author: {
